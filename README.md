@@ -19,3 +19,6 @@ the_links
 Lx-y Lz-w Lr-o ...
 ```
 x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w, o represents the rooms’ names.
+
+#### Map example
+![](https://github.com/vlkorniienko/Lemin/blob/master/map_example.png)
