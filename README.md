@@ -33,3 +33,5 @@ make
 Also as a bonus to this project I decided to find all unique ways on the map and let the ants walk on all of them.
 
 #### Example of programm output
+
+![](https://github.com/vlkorniienko/Lemin/blob/master/screen.png)
