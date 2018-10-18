@@ -22,3 +22,10 @@ x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w
 
 #### Map example
 ![](https://github.com/vlkorniienko/Lemin/blob/master/map_example.png)
+
+### Usage
+```
+git clone https://github.com/vlkorniienko/Lemin
+cd Lemin
+make
+```
