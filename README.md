@@ -30,3 +30,6 @@ cd Lemin
 make
 ./lem-in < maps/map01
 ```
+Also as a bonus to this project I decided to find all unique ways on the map and let the ants walk on all of them.
+
+#### Example of programm output
