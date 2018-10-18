@@ -28,4 +28,5 @@ x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w
 git clone https://github.com/vlkorniienko/Lemin
 cd Lemin
 make
+./lem-in < maps/map01
 ```
